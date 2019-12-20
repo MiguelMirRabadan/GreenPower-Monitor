@@ -1,0 +1,18 @@
+Hi,
+
+I wrote this for tell you what i try to do for validate that the website is working fine. 
+First one, want to tell you that I needed a bit more than 2 hours to do it. 
+
+The test that i did it's with selenium and I simulate that an user try to do a SingIn on the website. With this, i can validate that no problems exist when i try to navigate to the signin site. The website detects that i'm not registered and notify me correctly.
+The only thing that i found that maybe would be usefull that currently do not works, it's that when you are on the signin site, u can not back 
+to the home site using the Logo of the website.
+
+After that, i did a register process but i didn't finish it. I did some examples of unit test with a bit explication about what I want to do in these test but i didn't developed it a lot because i had not more time to apply other tests (like before, after or of test of parametters).
+
+I tried to program it as better i know in this time. I know that is not so much to evaluate, becasue is a simple code but, that's why i want to improve my knowledge working with professionals. 
+Hope that this test give you a bit idea about how I work for now.
+
+Thanks you for your time to review my code and, if you want ask me about what other tests i would do if this make me a bit chance to work with you.
+
+att. 
+Miguel
