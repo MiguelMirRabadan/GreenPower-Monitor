@@ -1,2 +1,0 @@
-# GreenPower-Monitor
-CodeTest
